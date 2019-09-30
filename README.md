@@ -2,7 +2,7 @@
 
 I utilized webpack and some basic math to create a circle.
 
-With fourier transform, we split waves into sine waves. However, fourier transform doesn't split it into regular sine waves -- (available at [drf.suryad.com](https://drf.suryad.com) we are creating 3D sine waves; complex sinusoids
+With fourier transform, we split waves into sine waves. However, fourier transform doesn't split it into regular sine waves -- (available at [drf.suryad.com](https://drf.suryad.com)) we are creating 3D sine waves; complex sinusoids
 
 This [general and surprising thing](http://www.paulgraham.com/sun.html) is a good way to uniquely make a circle appear on a page.
 
