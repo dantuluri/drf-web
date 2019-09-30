@@ -12,7 +12,7 @@ This [general but surprising thing](http://www.paulgraham.com/sun.html) is a goo
 2. Second slider can change how big the spirals are (this was intended to be brodcasted over the socket.io room, but unfortunately I ran into numerous issues with webpack and socket.io, which I couldn't solve unless I scraped webpack entirely; note that I have tried socket.io on drf's website and it works well)
 
 
-Docker Hub image (in case you want to run it):
+## Docker image (in case you want to run it):
 
 https://hub.docker.com/r/dantuluri/drf
 
